@@ -1,2 +1,0 @@
-# company_website
-myProject

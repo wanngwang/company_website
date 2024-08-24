@@ -1,0 +1,10 @@
+ .DS_Store
+node_modules/
+dist/
+npm-debug.log 
+ 
+package-lock.json
+ 
+// uniapp打包后的文件
+unpackage
+unpackage/*

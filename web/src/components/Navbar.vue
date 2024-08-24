@@ -14,7 +14,7 @@ import { useRoute } from 'vue-router'
 const route = useRoute();
 
 const handleClick = () => {
-    window.location = "http://localhost:8081"
+    window.location = "http://localhost:8080"
 }
 </script>
 <style scoped lang="scss">

@@ -1,2 +1,2 @@
 # company_website
-myPr
+myProject
